@@ -7,6 +7,7 @@ public class Haupt {
 		System.out.println("Hello World");
 		System.out.println("Cio Mondo");
 		System.out.println("lol");
+		System.out.println("lol2");
 
 	}
 
